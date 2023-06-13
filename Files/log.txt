@@ -1,0 +1,8 @@
+
+
+StarBugs v1.0.0 REGIS-LOG: 12/09/2022 12:40:56 am -- USER REGIS-LOG WITH ID: ->*1 * --EMAIL: ->*cami@ca.com*
+StarBugs v1.0.0 LOG: 12/09/2022 12:54:07 am -- USER LOG WITH ID: ->*1 * --EMAIL: ->*cami@ca.com*
+StarBugs v1.0.0 LOG: 12/09/2022 10:20:34 am -- USER LOG WITH ID: ->*1 * --EMAIL: ->*cami@ca.com*
+StarBugs v1.0.0 LOG: 12/09/2022 10:33:37 am -- USER LOG WITH ID: ->*1 * --EMAIL: ->*cami@ca.com*
+StarBugs v1.0.0 REGIS-LOG: 12/09/2022 12:16:27 pm -- USER REGIS-LOG WITH ID: ->*1 * --EMAIL: ->*cami@ca.com*
+StarBugs v1.0.0 REGIS-LOG: 12/21/2022 04:00:16 pm -- USER REGIS-LOG WITH ID: ->*2 * --EMAIL: ->*diego.neyra777@gmail.com*

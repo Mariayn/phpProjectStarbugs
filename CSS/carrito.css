@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2022, 11:04:49 PM
+    Author     : maria
+*/
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Hind Siliguri", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+main{
+    display:flex;
+    width: 100%;
+    height: 80%
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+#content{
+    display:flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 40%;
+  
+}
+
+h1{
+    margin-top: 35px;
+}
+
+form{
+    margin-top:40px;
+    display:flex;
+    flex-direction: column;
+}
+
+select {
+  border-bottom: 5px solid lightgrey;
+}
+
+#btn {
+    width: 70%;
+  background-color: #00754a;
+  border-radius: 50px;
+  border:none;
+  border-width: 1px;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.2;
+  text-align: center;
+  padding: 15px 20px;
+  margin-top:30px;
+  color: #fff;
+  box-shadow: 0 0 6px rgb(0 0 0 / 24%), 0 8px 12px rgb(0 0 0 / 14%);
+}
+
+span{
+    margin-top:10px;
+}
+section{
+    width:60%;
+    padding: 20px;
+}
+
+.producto{
+    display:flex;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%), 0 2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
+    width:500px;
+    height: 200px;
+    padding: 40px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.caffeeImg{
+    width: 100px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+.texts{
+    margin-left:20px;
+}
